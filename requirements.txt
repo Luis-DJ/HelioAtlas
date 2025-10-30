@@ -1,0 +1,11 @@
+# Core scientific and plotting libraries
+numpy
+pandas
+matplotlib
+
+# Astronomy data query and time handling
+astroquery
+astropy
+
+# Optional (for future enhancements like animation or GUI)
+ipywidgets
